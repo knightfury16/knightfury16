@@ -36,10 +36,6 @@ Aspiring Software Engineer who loves to code based on the alignment of the stars
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 
 
@@ -48,6 +44,7 @@ Aspiring Software Engineer who loves to code based on the alignment of the stars
 <b id="ft1">1</b>: My lawyer said I have to be specific about when I'm being sarcastic.<sup id ="a2">[2](#ft2)</sup> [↩](#a1)<br>
 <b id="ft2">2</b>: Also my consciousness said I have to be more truthful, I don't have a lawyer.<sup id ="a3">[3](#ft3)</sup>[↩](#a3)<br>
 <b id="ft3">3</b>: Yah, I do have consciousness, but you know who don't, check out this [**repo.**](https://github.com/knightfury16/Game-of-life-with-p5.js-library)[↩](#a3)<br>
+<b id="ft4">4</b>: Check out how I made the [**Intro Gif.**](https://github.com/knightfury16/Text-steer)<br>
 
 
 
