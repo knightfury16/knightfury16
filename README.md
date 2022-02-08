@@ -16,18 +16,20 @@ Aspiring Software Engineer who loves to code based on the alignment of the stars
 <span>
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" width = "50">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" width = "50">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" width = "50">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width = "50">
-  
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" width = "50">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width = "50">
+  
+<img src="https://camo.githubusercontent.com/c3aa8777fb7e3ef78de4c59eecbe77e8aee1ce8a9699f821b7fa54d439e166b8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30312f57696e646f77735f5465726d696e616c5f4c6f676f5f323536783235362e706e67" width = "50">
+  
+  
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" width = "50">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" width = "50">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" width = "50">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/firebase.svg" width = "50">
+  
 <img src="https://camo.githubusercontent.com/64ebc39fb026d0b8f50521a7cb62c0945c4372af45a85bb0fcf4ee305882fc78/68747470733a2f2f626c696e6465646379636c6f70732e6e656f6369746965732e6f72672f70356a732d69636f6e732f70352d73712d726576657273652d66696c6c65642e706e67" width = "50">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" width = "50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/archive/7/79/20160727073232%21Unity_logo.svg" width = "50">
+<img src="https://camo.githubusercontent.com/b3bf5d2d9bc99bfd2d45ce62f969a7eb01823b91f35bf3360beba1e319b1b2a8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f332f33662f4769745f69636f6e2e737667" width = "50">
+
   
   
 </span>
@@ -35,7 +37,7 @@ Aspiring Software Engineer who loves to code based on the alignment of the stars
 
 
 <br>
-<br>
+
 
 
 
