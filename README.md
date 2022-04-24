@@ -27,6 +27,7 @@ Aspiring Software Engineer who loves to code based on the alignment of the stars
   
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" width = "50">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" width = "50">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width = "50">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/firebase.svg" width = "50">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/webpack-icon-logo-png-transparent.png" width = "50">
   
