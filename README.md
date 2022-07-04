@@ -29,6 +29,7 @@ Aspiring Software Engineer who loves to code based on the alignment of the stars
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" width = "50">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width = "50">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/firebase.svg" width = "50">
+<img src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" width = "50">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/webpack-icon-logo-png-transparent.png" width = "50">
   
 <img src="https://camo.githubusercontent.com/64ebc39fb026d0b8f50521a7cb62c0945c4372af45a85bb0fcf4ee305882fc78/68747470733a2f2f626c696e6465646379636c6f70732e6e656f6369746965732e6f72672f70356a732d69636f6e732f70352d73712d726576657273652d66696c6c65642e706e67" width = "50">
