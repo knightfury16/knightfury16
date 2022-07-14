@@ -22,9 +22,6 @@ Aspiring Software Engineer who loves to code based on the alignment of the stars
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg" width = "50">
   
   
-<img src="https://camo.githubusercontent.com/c3aa8777fb7e3ef78de4c59eecbe77e8aee1ce8a9699f821b7fa54d439e166b8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30312f57696e646f77735f5465726d696e616c5f4c6f676f5f323536783235362e706e67" width = "50">
-  
-  
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" width = "50">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" width = "50">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width = "50">
